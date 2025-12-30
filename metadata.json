@@ -1,0 +1,8 @@
+{
+  "name": "NexusCommerce: AI Auto-Dropship Engine",
+  "description": "A high-performance e-commerce management dashboard for automated sourcing, AI image generation, and multi-platform fulfillment orchestration across TikTok, Shopify, and WooCommerce.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
